@@ -42,13 +42,14 @@ Both tasks share a unified pipeline including preprocessing, feature engineering
 
 ---
 
-├── MPCP.ipynb                    # ML pipeline with preprocessing, EDA, SVM, XGBoost
-├── Number2_1_keras.ipynb         # Keras MLP model training + inference  
-├── train.csv                     # Training dataset
-├── test.csv                      # Test dataset
-├── submission.csv                # Generated predictions
-└── README.md                     # Documentation
-
+| File / Folder | Description |
+|---------------|-------------|
+| **MPCP.ipynb** | ML pipeline with preprocessing, EDA, SVM, XGBoost |
+| **Number2_1_keras.ipynb** | Keras MLP model training + inference |
+| **train.csv** | Training dataset |
+| **test.csv** | Test dataset |
+| **submission.csv** | Generated predictions |
+| **README.md** | Documentation |
 
 ---
 
